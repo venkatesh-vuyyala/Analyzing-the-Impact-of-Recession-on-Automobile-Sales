@@ -14,3 +14,7 @@ In this assignment you will be presented with varies question for analysing data
 - recession period 5 - year end 2007 to mid 2009
 
 - recession period 6 - year 2020 -Feb to April (Covid-19 Impact)
+- 
+<img width="1440" alt="Screenshot 2024-06-04 at 9 28 13 PM" src="https://github.com/venkatesh-vuyyala/Analyzing-the-Impact-of-Recession-on-Automobile-Sales/assets/126367292/7346a2a8-60c6-4d96-9a69-60cceb2aa35b">
+
+<img width="1435" alt="Screenshot 2024-06-04 at 9 28 24 PM" src="https://github.com/venkatesh-vuyyala/Analyzing-the-Impact-of-Recession-on-Automobile-Sales/assets/126367292/2bc42b4c-72e3-451c-a5f5-e4a4d855ef66">
